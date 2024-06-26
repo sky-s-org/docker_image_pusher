@@ -1,1 +1,4 @@
-swarmpit/install:1.9
+swarmpit/swarmpit:latest
+couchdb:2.3.0
+influxdb:1.8
+swarmpit/agent:latest
