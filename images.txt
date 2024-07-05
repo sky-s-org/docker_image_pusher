@@ -1,1 +1,1 @@
-nginx:stable-perl
+nginx:1.27.0
